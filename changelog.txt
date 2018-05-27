@@ -1,5 +1,10 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.16.2
+Date: 24. 05. 2018
+  Bugfix:
+    - Factorio 0.16.21 Fix (https://mods.factorio.com/mod/ZRequestMultiplierConfig/discussion/5b02d7612c76690009cd2ef0)
+---------------------------------------------------------------------------------------------------
 Version: 0.16.1
-Date: 04.05.2018
+Date: 04. 05. 2018
   Major Features:
     - First release v16
