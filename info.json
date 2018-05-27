@@ -1,0 +1,9 @@
+{
+	"name":"ZRequestMultiplierConfig",
+	"author":"magu5026",
+	"version":"0.16.1",
+	"title":"Request Multiplier Config",
+	"description":"The multiplier used when a recipe is copied from an assembling machine to a requester chest. For each item in the recipe the item count * this value is set in the requester chest.",
+	"factorio_version":"0.16",
+	"dependencies": ["base >= 0.16"]
+}
